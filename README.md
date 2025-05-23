@@ -6,6 +6,8 @@ sdk_version: 5.30.0
 ---
 # Ironhack Project 1
 
+[Link to the presentation](https://docs.google.com/presentation/d/1BWfcWtbhk4YGGc4-XMDoaImIV5pgXODwRbMHhGwcJ40/edit?usp=sharing)
+
 # CNN architecture
 For this project, we selected the CIFAR-10 dataset as it was already familiar to us from previous model implementation.
 
