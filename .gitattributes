@@ -1,0 +1,2 @@
+batch_norm_model.keras filter=lfs diff=lfs merge=lfs -text
+vgg16_julien.keras filter=lfs diff=lfs merge=lfs -text
